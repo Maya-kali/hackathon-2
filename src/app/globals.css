@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom_image {
+  background-image: url('../../public/hero1.jpg');
+
+}
+.custom_image1 {
+  background-image: url('../../public/1/m-7.jpg');
+
+}
+.custom_image2 {
+  background-image: url('../../public/1/hero.jpg');
+
+}
+.myDiscount
+{
+  transform: rotate(-90deg) translate(0, -69px);
+  transform-origin: 100% 0;
+}
